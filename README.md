@@ -1,2 +1,2 @@
 # Cat-and-Dog-classifier
-Using ML 
+Using Machine Learning and python 
